@@ -1,4 +1,4 @@
-### Hi there 👋 i am sathvika
+### Hi there 👋 i'm Mahesh Sathvika.
 
 <!--
 **sath-123/sath-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
