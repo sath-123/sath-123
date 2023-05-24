@@ -13,17 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Achievements
-
-- Pull Shark
-- Beta
-
-Send feedback
-
-# Achievements
-
-- Pull Shark
-- Beta
-
-Send feedback
-
+-->
